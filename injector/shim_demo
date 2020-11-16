@@ -1,0 +1,2 @@
+symbol_shim _ZN14string_wrapperC1EPcm _ZN14string_wrapperC2EPcm
+symbol_shim _ZN14string_wrapperD1Ev _ZN14string_wrapperD2Ev
