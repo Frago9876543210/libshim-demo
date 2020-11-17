@@ -14,7 +14,7 @@ LD_PRELOAD=./injector/libinjector.so ./binary/binary
 ```
 
 ### Output with symbols map (see [injector/shim_demo](https://github.com/Frago9876543210/libshim-demo/blob/master/injector/shim_demo))
-```bash
+```
 injected into process
 
 string_wrapper::string_wrapper("custom string from injector.so", 31)
